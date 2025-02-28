@@ -19,17 +19,17 @@ images/
 
 ## 🚀 Getting Started
 1. Clone the repository:
-   bash
-   git clone https://github.com/snehadindi/AgriCure-farming.git
+   ```bash
+   git clone https://github.com/dasarimanvanth/Agricure.git
    
 2. Navigate to the project folder:
-   bash
-   cd AgriCure-farming
+   ```bash
+   cd Agricure
    
 3. Open index.html in your browser to view the website.
 
 ## 🎨 Preview
-You can check the live demo [https://snehadindi.github.io/AgriCure-farming/](#).
+You can check the live demo [https://dasarimanvanth.github.io/Agricure/](#).
 
 ## 📧 Contact
-For any queries, feel free to reach out at dindisneha@gmail.com
+For any queries, feel free to reach out at dmanvanth@gmail.com
